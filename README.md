@@ -1,14 +1,15 @@
-- 👋 Hi, I’m Omotola
+ <p>👋 Hi,  My name is Omotola Odusanya </p>
 - 
-- 👀 I’m interested in web development
+- <p> I’m interested in web development👀 </p>
 -  
-- 🌱 I’m currently learning Js
+- <p> I’m currently learning Js </p>
 - 
-- 💞️ I’m looking to collaborate on live projects
+- <p>I’m looking to collaborate on live projects</p> 
 - 
 - 📫   <ul>
-            <li> Contact me <a href="mailto:tola@gmail.com">My mail</a></li>
-            <li>Dial <a href="tel:+2348142597680"> my phone number</a></li>
+            <li> Contact me via <a href="mailto:tola@gmail.com">My mail</a></li>
+            <li>Contact me via <a href="https://www.instagram.com/itstolexy"> Instagram</a></li>
+             <li>Contact me via<a href="https://twitter.com/itstolexy"> Twitter</a></li>
         </ul>
             
 

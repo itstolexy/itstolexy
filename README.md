@@ -1,6 +1,6 @@
-   <p>👋 Hi,  My name is Omotola Odusanya </p>
+   <h1>👋 Hi,  I'm Omotola Odusanya </h1>
 - 
-- <p> I’m interested in web development👀 </p>
+- <p> A graduate interested in software development👀 </p>
 -  
 - <p> I’m currently learning Js </p>
 - 

@@ -4,19 +4,19 @@
 
 <img align='right' alt='Coding' width='400' height='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
   
--  <p> I’m currently learning Js </p>
+  <p> - I’m currently learning Js </p>
  
--   <p>I’m looking to collaborate on web development live projects </p>
+   <p>- I’m looking to collaborate on web development live projects </p>
 
--   <p>Talk me about  <b>Frontend development</b> 💬 </p>
+   <p>- Talk me about  <b>Frontend development</b> 💬 </p>
 
--   <h3> Contact me </h3>
+   <h3> Contact me </h3>
         <ul>
             <li><a href="mailto:tola@gmail.com">Email</a></li>
             <li><a href="https://www.instagram.com/itstolexy">Instagram</a></li>
             <li><a href="https://twitter.com/itstolexy"> Twitter</a></li>
         </ul>
-- <h3>Languages and Tools</h3>
+ <h3>Languages and Tools</h3>
 <p>
    <img src='https://i1.wp.com/www.freeiconspng.com/uploads/w3c-html5-logo-0.png' width="80" height="80" alt="Html">
    <img src='https://static.javatpoint.com/csspages/images/css-tutorial.png'

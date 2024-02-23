@@ -1,4 +1,4 @@
-   <h1 align='center' >👋 Hi,  I'm Omotola Odusanya </h1>
+   <h1 align='center' > Hi👋,  I'm Omotola Odusanya </h1>
  
  <h3 align='center' > A graduate interested in software development👀 </h3>
 
@@ -6,7 +6,9 @@
   
 -    <p> I’m currently learning Js </p>
  
--   <p>I’m looking to collaborate on live projects and internships </p>
+-   <p>I’m looking to collaborate on web development live projects </p>
+
+-   <p>Talk me about  <b>Frontend development</b> 💬 </p>
 
 -   <h3> Contact me </h3>
         <ul>
@@ -16,11 +18,11 @@
         </ul>
 - <h3>Languages and Tools</h3>
 <p>
-   <img src='https://i1.wp.com/www.freeiconspng.com/uploads/w3c-html5-logo-0.png' width="70" height="100" alt="Html">
+   <img src='https://i1.wp.com/www.freeiconspng.com/uploads/w3c-html5-logo-0.png' width="80" height="80" alt="Html">
    <img src='https://static.javatpoint.com/csspages/images/css-tutorial.png'
-     width="100" height="100" alt="CSS">
+     width="80" height="80" alt="CSS">
     <img src='https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png'
-     width="100" height="100" alt="Jaavascript">
+     width="80" height="80" alt="Jaavascript">
 </p>
 
             

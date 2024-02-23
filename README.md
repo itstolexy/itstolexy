@@ -6,7 +6,11 @@
 - 
 - 💞️ I’m looking to collaborate on live projects
 - 
-- 📫 How to reach me odusanyaomotola64@gmail.com
+- 📫   <ul>
+            <li> Contact me <a href="mailto:tola@gmail.com">My mail</a></li>
+            <li>Dial <a href="tel:+2348142597680"> my phone number</a></li>
+        </ul>
+            
 
 - ⚡ Fun fact: ... I always find a way to solve problems.
 

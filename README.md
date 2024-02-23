@@ -8,7 +8,7 @@
  
    <p>- I’m looking to collaborate on web development live projects </p>
 
-   <p>- Talk me about  <b>Frontend development</b> 💬 </p>
+   <p>- Talk to me about  <b>Frontend development</b> 💬 </p>
 
    <h3> Contact me </h3>
         <ul>

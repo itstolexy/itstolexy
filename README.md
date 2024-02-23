@@ -1,12 +1,12 @@
- <p>👋 Hi,  My name is Omotola Odusanya </p>
+   <p>👋 Hi,  My name is Omotola Odusanya </p>
 - 
 - <p> I’m interested in web development👀 </p>
 -  
 - <p> I’m currently learning Js </p>
 - 
-- <p>I’m looking to collaborate on live projects</p> 
+- <p>I’m looking to collaborate on live projects and internships </p> 
 - 
-- 📫   <ul>
+-    <ul>
             <li> Contact me via <a href="mailto:tola@gmail.com">My mail</a></li>
             <li>Contact me via <a href="https://www.instagram.com/itstolexy"> Instagram</a></li>
              <li>Contact me via<a href="https://twitter.com/itstolexy"> Twitter</a></li>

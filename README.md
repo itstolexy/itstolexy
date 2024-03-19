@@ -4,7 +4,7 @@
 
 <img align='right' alt='Coding' width='400' height='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
   
-  <p> - I’m currently learning Js </p>
+  <p> - I’m currently learning React </p>
  
    <p>- I’m looking to collaborate on web development live projects </p>
 
@@ -23,6 +23,8 @@
      width="80" height="80" alt="CSS">
     <img src='https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png'
      width="80" height="80" alt="Jaavascript">
+    <img src='https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=512'
+     width="80" height="80" alt="React">
 </p>
 
             

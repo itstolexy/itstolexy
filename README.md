@@ -24,7 +24,7 @@
     <img src='https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png'
      width="80" height="80" alt="Jaavascript">
     <img src='https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=512'
-     width="80" height="80" alt="React">
+     width="70" height="70" alt="React">
 </p>
 
             

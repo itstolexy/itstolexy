@@ -23,7 +23,7 @@
      width="80" height="80" alt="CSS">
     <img src='https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png'
      width="80" height="80" alt="Jaavascript">
-    <img src='https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=512'
+    <img src='[https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=51](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-react-javascript-responsive-web-design-github-angu-1080152%2Fpreview.html&psig=AOvVaw3S-NF9pQLPc-0zdiooBbc0&ust=1710935075661000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODPsv2fgIUDFQAAAAAdAAAAABAi)2'
      width="70" height="70" alt="React">
 </p>
 

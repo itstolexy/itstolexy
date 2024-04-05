@@ -1,6 +1,6 @@
   <h1 align='center' > Hi👋,  I'm Omotola Odusanya </h1>
  
- <h3 align='center' > A graduate interested in software development👀 </h3>
+ <h3 align='center' > A Frontend Developer👀 </h3>
 
 <img align='right' alt='Coding' width='400' height='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
   
@@ -25,6 +25,10 @@
      width="80" height="80" alt="Jaavascript">
     <img src='https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0'
      width="70" height="70" alt="React">
+    <img src='[https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.adc295c26c20d70665ae837cbf59c178?rik=EXT1uoLQivg3gw&pid=ImgRaw&r=0)'
+     width="70" height="70" alt="NextJs">
+    <img src='[https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0](https://th.bing.com/th/id/OIP.8C4Ix9DiO5fWcqKX1xaH5QHaHa?rs=1&pid=ImgDetMain)'
+     width="70" height="70" alt="Tailwind Css">
 </p>
 
             

@@ -25,10 +25,8 @@
      width="80" height="80" alt="Jaavascript">
     <img src='https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0'
      width="70" height="70" alt="React">
-    <img src='[https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.adc295c26c20d70665ae837cbf59c178?rik=EXT1uoLQivg3gw&pid=ImgRaw&r=0)'
-     width="70" height="70" alt="NextJs">
-    <img src='[https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0](https://th.bing.com/th/id/OIP.8C4Ix9DiO5fWcqKX1xaH5QHaHa?rs=1&pid=ImgDetMain)'
-     width="70" height="70" alt="Tailwind Css">
+    <img src='https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs'width="70" height="70" alt="NextJs">
+    <img src='https://tailwindcss.andredemos.ca/img/twitter/tailwind_logo.jpg'width="70" height="70" alt="Tailwind Css">
 </p>
 
             

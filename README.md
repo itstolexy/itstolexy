@@ -26,7 +26,7 @@
     <img src='https://th.bing.com/th/id/R.7494ea050cb798c9cc748f2494dfe41c?rik=aQApm%2bi1eyWqkw&pid=ImgRaw&r=0'
      width="70" height="70" alt="React">
     <img src='https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs'width="70" height="70" alt="NextJs">
-    <img src='https://tailwindcss.andredemos.ca/img/twitter/tailwind_logo.jpg'width="70" height="70" alt="Tailwind Css">
+    <img src='https://d6f6d0kpz0gyr.cloudfront.net/uploads/images/_1200x630_crop_center-center_82_none/tailwind-thumb.jpg?mtime=20210104144959&focal=none&tmtime=20210104145035'width="70" height="70" alt="Tailwind Css">
 </p>
 
             

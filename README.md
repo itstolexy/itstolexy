@@ -3,8 +3,6 @@
  <h3 align='center' > A Frontend Developer👀 </h3>
 
 <img align='right' alt='Coding' width='400' height='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
-  
-  <p> - I’m currently learning React </p>
  
    <p>- I’m looking to collaborate on web development live projects </p>
 

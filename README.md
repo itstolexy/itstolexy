@@ -4,7 +4,7 @@
 
 <img align='right' alt='Coding' width='400' height='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
  
-   <p>- I’m looking to collaborate on web development live projects </p>
+   <p>- Available to collaborate on web development live projects </p>
 
    <p>- Talk to me about  <b>Frontend development</b> 💬 </p>
 

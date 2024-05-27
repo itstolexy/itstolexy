@@ -10,7 +10,7 @@
 
    <h3> Contact me </h3>
         <ul>
-            <li><a href="mailto:tola@gmail.com">Email</a></li>
+            <li><a href="mailto:odusanyaomotola64@gmail.com">Email</a></li>
             <li><a href="https://www.instagram.com/itstolexy">Instagram</a></li>
             <li><a href="https://twitter.com/itstolexy"> Twitter</a></li>
         </ul>
